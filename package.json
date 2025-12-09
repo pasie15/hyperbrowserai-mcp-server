@@ -1,7 +1,7 @@
 {
   "version": "1.2.0",
   "description": "Hyperbrowser Model Context Protocol Server",
-  "name": "hyperbrowser-mcp",
+  "name": "@version6media/hyperbrowser-mcp",
   "main": "./dist/server.js",
   "bin": {
     "hyperbrowser-mcp": "dist/server.js"
