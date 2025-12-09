@@ -111,6 +111,7 @@ This is an example config for the Hyperbrowser MCP server for the Claude Desktop
 * `create_profile` - Creates a new persistent Hyperbrowser profile.
 * `delete_profile` - Deletes an existing persistent Hyperbrowser profile.
 * `list_profiles` - Lists existing persistent Hyperbrowser profiles.
+* `get_session_downloads` - Retrieve files downloaded during a HyperBrowser session (requires saveDownloads: true in sessionOptions)
 
 ### Installing via Smithery
 
